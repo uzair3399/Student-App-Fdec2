@@ -1,0 +1,19 @@
+1] Apache-Tomcat download link:
+
+https://tomcat.apache.org/download-80.cgi
+
+2] Project Source Code Link: 
+
+https://s3-us-west-2.amazonaws.com/studentapi-cit/student.war
+
+3] lib/ folder mysql-connector.jar file link:
+
+https://s3-us-west-2.amazonaws.com/studentapi-cit/mysql-connector.jar
+
+4] Go to conf/ folder in apache-tomcat edit context.xml, the data is given in below link:
+
+https://confluence.atlassian.com/conf59/configuring-a-mysql-datasource-in-apache-tomcat-792499579.html
+
+5] RDS database create table code link:
+
+https://s3-us-west-2.amazonaws.com/studentapi-cit/student-rds.sql
